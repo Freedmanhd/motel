@@ -9,11 +9,18 @@ Improve your server atmosphere with the help of interiors from freedmanh!
 Features:
 
 7 different rooms;
+
 Each room has a bathroom, an entrance hall and decorative items;
+
 High quality texture;
+
 Maximum optimization;
+
 Light weight (27 MB);
+
 Custom Store;
+
 Service room in the store for the owner;
+
 LOD`s;
 Fixed the external model of the building.
