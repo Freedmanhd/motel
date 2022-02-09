@@ -7,6 +7,7 @@ On the territory of the motel there is also a shop where you can book one of the
 Improve your server atmosphere with the help of interiors from freedmanh!
 
 Features:
+
 7 different rooms;
 Each room has a bathroom, an entrance hall and decorative items;
 High quality texture;
